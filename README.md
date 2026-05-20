@@ -232,9 +232,3 @@ nikvpn-codespace/
 │   └── start.sh
 ├── LICENSE
 └── README.md
-گزارش دهید
-
----
-
-# NikVPN for IRAN – اینترنت آزاد برای همه 🇮🇷
-
